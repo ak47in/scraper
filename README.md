@@ -11,3 +11,6 @@ For scraping amazon products.
 > ## Variables
 > ##### url - url of amazon.in after searching on its search bar
 > ##### n - number of products to scrap
+
+
+##### Scraped dataset on kaggle https://www.kaggle.com/ak47bluestack/amazonphonedataset
